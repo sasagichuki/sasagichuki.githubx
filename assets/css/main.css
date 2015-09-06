@@ -188,7 +188,7 @@ th {
 html {
   /* Change default typefaces here */
   font-family: "Raleway", sans-serif;
-  font-size: 137.5%;
+  font-size: 100%;
   font-weight: 400;
   color: rgba(0, 0, 0, 0.8);
   -webkit-font-smoothing: antialiased;
@@ -406,7 +406,7 @@ body {
   overflow: hidden; }
 
 .brandLogo--small {
-  width: 44px;
+  width: 5rem;
   height: 44px; }
 
 .brandLogo--black {
