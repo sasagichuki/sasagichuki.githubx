@@ -154,10 +154,11 @@
 .postMeta-wrapper--frontpage {
   position: absolute;
   display: inherit;
-  top: 200px;
+  top: 165px;
   left: 50%;
   transform: translateX(-50%);
   z-index: $zIndex-5--tagline-frontpage;
+  
 
   .postMeta-tagline {
     font-weight: 300;

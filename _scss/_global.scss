@@ -59,7 +59,7 @@ body {
 
 .textLogo--frontpage {
   position: absolute;
-  top: 132px;
+  top: 100px;
   left: 50%;
   transform: translateX(-50%);
   z-index: $zIndex-5--textlogo-frontpage;
@@ -72,7 +72,7 @@ body {
 
   @media (max-width: $screen-xs-max) {
     width: 182px;
-    height: 33px;
-    top: 99px;
+    height: 67px;
+    top: 60px;
   }
 }
