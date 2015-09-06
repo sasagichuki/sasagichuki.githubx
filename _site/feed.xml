@@ -3,8 +3,8 @@
 	<channel>
 		<title>Chaos Theory</title>
 		<description>Discovery starts with accepting the obvious, that you know Nothing</description>
-		<link>http://sasagichuki.github.io/theory</link>
-		<atom:link href="http://sasagichuki.github.io/theory/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://sasagichuki.github.io</link>
+		<atom:link href="http://sasagichuki.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>A Life of Walt Disney</title>
@@ -13,8 +13,8 @@
 					<description>Walter Elias Disney was an American entrepreneur, cartoonist, animator, voice actor, and film producer. As a prominent...</description>
 				
 				<pubDate>Mon, 15 Dec 2014 04:00:00 +0300</pubDate>
-				<link>http://sasagichuki.github.io/theory/a-life-of-walt-disney</link>
-				<guid isPermaLink="true">http://sasagichuki.github.io/theory/a-life-of-walt-disney</guid>
+				<link>http://sasagichuki.github.io/a-life-of-walt-disney</link>
+				<guid isPermaLink="true">http://sasagichuki.github.io/a-life-of-walt-disney</guid>
 			</item>
 		
 			<item>
@@ -24,8 +24,8 @@
 					<description>Mickey Mouse is a funny animal cartoon character and the official mascot of...</description>
 				
 				<pubDate>Fri, 28 Nov 2014 04:00:00 +0300</pubDate>
-				<link>http://sasagichuki.github.io/theory/mickey-mouse</link>
-				<guid isPermaLink="true">http://sasagichuki.github.io/theory/mickey-mouse</guid>
+				<link>http://sasagichuki.github.io/mickey-mouse</link>
+				<guid isPermaLink="true">http://sasagichuki.github.io/mickey-mouse</guid>
 			</item>
 		
 			<item>
@@ -35,8 +35,8 @@
 					<description>Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was...</description>
 				
 				<pubDate>Fri, 16 Dec 1983 04:00:00 +0300</pubDate>
-				<link>http://sasagichuki.github.io/theory/television</link>
-				<guid isPermaLink="true">http://sasagichuki.github.io/theory/television</guid>
+				<link>http://sasagichuki.github.io/television</link>
+				<guid isPermaLink="true">http://sasagichuki.github.io/television</guid>
 			</item>
 		
 			<item>
@@ -46,8 +46,8 @@
 					<description>Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was...</description>
 				
 				<pubDate>Fri, 18 Nov 1932 03:30:00 +0230</pubDate>
-				<link>http://sasagichuki.github.io/theory/color-films</link>
-				<guid isPermaLink="true">http://sasagichuki.github.io/theory/color-films</guid>
+				<link>http://sasagichuki.github.io/color-films</link>
+				<guid isPermaLink="true">http://sasagichuki.github.io/color-films</guid>
 			</item>
 		
 			<item>
@@ -57,8 +57,8 @@
 					<description>Mickey first appeared in comics after he had appeared in 15 commercially successful animated shorts and was easily recognized by ...</description>
 				
 				<pubDate>Mon, 13 Jan 1930 03:30:00 +0230</pubDate>
-				<link>http://sasagichuki.github.io/theory/comics</link>
-				<guid isPermaLink="true">http://sasagichuki.github.io/theory/comics</guid>
+				<link>http://sasagichuki.github.io/comics</link>
+				<guid isPermaLink="true">http://sasagichuki.github.io/comics</guid>
 			</item>
 		
 			<item>
@@ -68,8 +68,8 @@
 					<description>In Mickey&#39;s early films he was often characterized not as a hero, but as an ineffective young suitor to Minnie Mouse...</description>
 				
 				<pubDate>Thu, 28 Mar 1929 04:00:00 +0300</pubDate>
-				<link>http://sasagichuki.github.io/theory/black-and-white-films</link>
-				<guid isPermaLink="true">http://sasagichuki.github.io/theory/black-and-white-films</guid>
+				<link>http://sasagichuki.github.io/black-and-white-films</link>
+				<guid isPermaLink="true">http://sasagichuki.github.io/black-and-white-films</guid>
 			</item>
 		
 			<item>
@@ -79,8 +79,8 @@
 					<description>Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal...</description>
 				
 				<pubDate>Sun, 18 Nov 1928 04:00:00 +0300</pubDate>
-				<link>http://sasagichuki.github.io/theory/debut</link>
-				<guid isPermaLink="true">http://sasagichuki.github.io/theory/debut</guid>
+				<link>http://sasagichuki.github.io/debut</link>
+				<guid isPermaLink="true">http://sasagichuki.github.io/debut</guid>
 			</item>
 		
 	</channel>
