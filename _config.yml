@@ -13,9 +13,9 @@ name:				         Chaos Theory
 title:               Chaos Theory
 tagline:             'You know nothing Chaos'
 description:         'Discovery starts with accepting the obvious, that you know Nothing'
-url:                 http://sasagichuki.github.io/theory
+url:                 http://sasagichuki.github.io
 rss:                 # rss feed url
-baseurl:             '/theory'
+baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
@@ -25,7 +25,7 @@ disqus:              chaosnairobi
 
 author:
   name:           	 Chaos Gichuki
-  url:            	 http://chaos.co.ke/theory
+  url:            	 http://chaos.co.ke
   # facebook:          username
   twitter:           kibee
   # google_plus:       username
