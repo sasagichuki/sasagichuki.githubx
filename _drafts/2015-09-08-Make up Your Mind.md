@@ -2,21 +2,7 @@
 published: false
 ---
 
----
-layout: post
-title:  "Make up your mind "
-date:   2015-09-08 01:00:00
-last_modified_at:  2015-09-08 01:00:00
-excerpt: "Timeless advice on life from a Kids book"
-categories: Ramblings
-tags:  Dr Seuss, Life Hacking
-image:
-  feature: makeupyourmind.jpg
-  topPosition: -50px
-bgContrast: dark
-bgGradientOpacity: darker
-syntaxHighlighter: no
----
+## Make up you Mind
 
 Society is set up to make us believe that we have endless choice,
 
