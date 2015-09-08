@@ -7,6 +7,28 @@
 		<atom:link href="http://sasagichuki.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Why a Bee</title>
+				
+				
+					<description>Because it is my name,</description>
+				
+				<pubDate>Wed, 09 Sep 2015 04:00:00 +0300</pubDate>
+				<link>http://sasagichuki.github.io/a-Why%20a%20Bee</link>
+				<guid isPermaLink="true">http://sasagichuki.github.io/a-Why%20a%20Bee</guid>
+			</item>
+		
+			<item>
+				<title>Make up your mind </title>
+				
+				
+					<description>Timeless advice on life from a Kids book</description>
+				
+				<pubDate>Tue, 08 Sep 2015 04:00:00 +0300</pubDate>
+				<link>http://sasagichuki.github.io/mickey-mouse</link>
+				<guid isPermaLink="true">http://sasagichuki.github.io/mickey-mouse</guid>
+			</item>
+		
+			<item>
 				<title>A Life of Walt Disney</title>
 				
 				
@@ -15,17 +37,6 @@
 				<pubDate>Mon, 15 Dec 2014 04:00:00 +0300</pubDate>
 				<link>http://sasagichuki.github.io/a-life-of-walt-disney</link>
 				<guid isPermaLink="true">http://sasagichuki.github.io/a-life-of-walt-disney</guid>
-			</item>
-		
-			<item>
-				<title>Mickey Mouse</title>
-				
-				
-					<description>Mickey Mouse is a funny animal cartoon character and the official mascot of...</description>
-				
-				<pubDate>Fri, 28 Nov 2014 04:00:00 +0300</pubDate>
-				<link>http://sasagichuki.github.io/mickey-mouse</link>
-				<guid isPermaLink="true">http://sasagichuki.github.io/mickey-mouse</guid>
 			</item>
 		
 			<item>
