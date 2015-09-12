@@ -27,6 +27,10 @@
   }
 }
 
+// .section--frontpage{
+//   background: url("/assets/images/big_bg.jpg") no-repeat top right;
+// }
+
 .section--about,
 .section-backgroundImage,
 .section--about ~ .post-featuredImage {
@@ -220,3 +224,4 @@
 // Safari 7+ only hack that compiles
 
 _::-webkit-full-page-media, _:future, :root .postMeta-wrapper--frontpage { left:41%; }
+_::-webkit-full-page-media, _:future, :root .section-backgroundImage .post-featuredImage {left:0%}

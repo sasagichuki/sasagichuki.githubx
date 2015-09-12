@@ -1541,6 +1541,9 @@ _::-webkit-full-page-media, _:future, :root .textLogo--frontpage {
 _::-webkit-full-page-media, _:future, :root .postMeta-wrapper--frontpage {
   left: 41%; }
 
+_::-webkit-full-page-media, _:future, :root .section-backgroundImage .post-featuredImage {
+  left: 0%; }
+
 .postWrapper {
   position: relative;
   width: 100%;
