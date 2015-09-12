@@ -452,6 +452,9 @@ body {
       height: 67px;
       top: 53px; } }
 
+_::-webkit-full-page-media, _:future, :root .textLogo--frontpage {
+  left: 37%; }
+
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -1534,6 +1537,9 @@ body {
   @media (max-width: 767px) {
     .postMeta li {
       font-size: 0.8rem; } }
+
+_::-webkit-full-page-media, _:future, :root .postMeta-wrapper--frontpage {
+  left: 41%; }
 
 .postWrapper {
   position: relative;

@@ -77,3 +77,7 @@ body {
     top: 53px;
   }
 }
+
+// Safari 7+ only hack that compiles
+
+_::-webkit-full-page-media, _:future, :root .textLogo--frontpage { left:37%; }

@@ -182,7 +182,6 @@
   margin: 0;
   padding: 0;
 }
-
 .postMeta li {
   float: left;
   margin: 0;
@@ -217,3 +216,7 @@
     font-size: 0.8rem;
   }
 }
+
+// Safari 7+ only hack that compiles
+
+_::-webkit-full-page-media, _:future, :root .postMeta-wrapper--frontpage { left:41%; }
