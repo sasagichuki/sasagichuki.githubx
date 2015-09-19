@@ -396,6 +396,22 @@ body {
     body {
       padding-right: 0; } }
 
+#overlay {
+  background: #ffffff;
+  color: #666666;
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  z-index: 5000;
+  top: 0;
+  left: 0;
+  float: left;
+  text-align: center;
+  padding-top: 25%; }
+  #overlay img {
+    width: 20%;
+    margin-top: -39px; }
+
 .brandLogo {
   background-image: url(../images/logo-white.svg);
   background-size: contain;

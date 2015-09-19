@@ -4,6 +4,13 @@
   {% include head.html %}
 
   <body>
+
+    <div id="overlay">
+      <!-- gif from https://dribbble.com/shots/2251339-Dancing-A-AP-Rocky -->
+      <img src="../assets/images/asap_dribbble.gif" alt="Loading" /><br/>
+      Cranking ...
+    </div>
+
     {% if page.url != '/index.html' %}
       <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
       {% include sidebar-nav.html %}
