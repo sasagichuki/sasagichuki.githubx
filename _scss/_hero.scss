@@ -158,7 +158,7 @@
 .postMeta-wrapper--frontpage {
   position: absolute;
   display: inherit;
-  top: 140px;
+  top: 130px;
   left: 50%;
   transform: translateX(-50%);
   z-index: $zIndex-5--tagline-frontpage;
@@ -177,7 +177,7 @@
 
   @media (max-width: $screen-xs-max) {
     width: 300px;
-    top: 100px;
+    top: 88px;
   }
 }
 

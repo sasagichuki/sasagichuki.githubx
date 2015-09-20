@@ -413,7 +413,7 @@ body {
     margin-top: -39px; }
 
 .brandLogo {
-  background-image: url(../images/logo-white.svg);
+  background-image: url(../images/logo-white.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: 0 0;
@@ -423,14 +423,14 @@ body {
 
 .brandLogo--small {
   width: 5rem;
-  height: 44px; }
+  height: 60px; }
 
 .brandLogo--black {
-  background-image: url(../images/logo-black.svg); }
+  background-image: url(../images/logo-black.png); }
 
 .textLogo {
   display: block;
-  background-image: url(../images/logo-text-black.svg);
+  background-image: url(../images/logo-text-black.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: 0 0;
@@ -439,7 +439,7 @@ body {
   overflow: hidden; }
 
 .textLogo--white {
-  background-image: url(../images/logo-text-white.svg); }
+  background-image: url(../images/logo-text-white.png); }
 
 .textLogo--sidebar {
   width: 100%;
@@ -452,21 +452,21 @@ body {
 
 .textLogo--frontpage {
   position: absolute;
-  top: 54px;
+  top: 20px;
   left: 50%;
   transform: translateX(-50%);
   z-index: 500;
   margin: 0;
-  width: 276px;
-  height: 105px;
+  width: 155px;
+  height: 132px;
   background-size: 100%;
   background-position: 0;
   opacity: 0.9; }
   @media (max-width: 767px) {
     .textLogo--frontpage {
-      width: 182px;
-      height: 67px;
-      top: 53px; } }
+      width: 120px;
+      height: 91px;
+      top: 13px; } }
 
 _::-webkit-full-page-media, _:future, :root .textLogo--frontpage {
   left: 37%; }
@@ -1505,7 +1505,7 @@ _::-webkit-full-page-media, _:future, :root .textLogo--frontpage {
 .postMeta-wrapper--frontpage {
   position: absolute;
   display: inherit;
-  top: 140px;
+  top: 130px;
   left: 50%;
   transform: translateX(-50%);
   z-index: 500; }
@@ -1520,7 +1520,7 @@ _::-webkit-full-page-media, _:future, :root .textLogo--frontpage {
   @media (max-width: 767px) {
     .postMeta-wrapper--frontpage {
       width: 300px;
-      top: 100px; } }
+      top: 88px; } }
 
 .postMeta {
   list-style: none;
