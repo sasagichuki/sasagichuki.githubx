@@ -1,18 +1,19 @@
 ---
 layout: post
-title:  "Color films"
-date:   1932-11-18 01:00:00
-date:   1932-11-18 01:00:00
+title: Color films
+date: {}
 excerpt: "Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was..."
 categories: history
-tags:  mickey
-image:
-  feature: mickey-1940.jpg
-  topPosition: -200px
+tags: mickey
+image: 
+  feature: "mickey-1940.jpg"
+  topPosition: "-200px"
 bgContrast: dark
 bgGradientOpacity: darker
-syntaxHighlighter: no
+syntaxHighlighter: "no"
+published: false
 ---
+
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Mickey_Mouse)
 
 Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was created for the 5th Academy Awards ceremony and was not released to the public. Mickey's official first color film came in 1935 with The Band Concert. The Technicolor film process was used in the film production. Here Mickey conducted the William Tell Overture, but the band is swept up by a tornado. It is said that conductor Arturo Toscanini so loved this short that, upon first seeing it, he asked the projectionist to run it again. In 1994, The Band Concert was voted the third-greatest cartoon of all time in a poll of animation professionals. By colorizing and partially redesigning Mickey, Walt would put Mickey back on top once again, and Mickey would reach popularity he never reached before as audiences now gave him more appeal.[34] Also in 1935, Walt would receive a special award from the League of Nations for creating Mickey.
