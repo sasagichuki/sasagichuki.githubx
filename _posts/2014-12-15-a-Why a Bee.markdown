@@ -8,7 +8,7 @@ categories: history
 tags:  disney
 image:
   feature: walt-disney.jpg
-  topPosition: 0px
+  topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
