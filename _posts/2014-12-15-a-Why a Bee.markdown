@@ -1,18 +1,20 @@
 ---
 layout: post
-title:  "Why a Bee"
-date:   2015-09-09 01:00:00
-last_modified_at:  2015-09-09 01:00:00
+title: Why a Bee
+date: {}
+last_modified_at: {}
 excerpt: "Because it is my name,"
 categories: history
-tags:  disney
-image:
-  feature: walt-disney.jpg
-  topPosition: -100px
+tags: disney
+image: 
+  feature: "walt-disney.jpg"
+  topPosition: "-100px"
 bgContrast: dark
 bgGradientOpacity: darker
-syntaxHighlighter: no
+syntaxHighlighter: "no"
+published: false
 ---
+
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}walt-childhood.jpg);"></div>
 
