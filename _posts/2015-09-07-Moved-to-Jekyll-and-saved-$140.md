@@ -1,13 +1,13 @@
 ---
 layout: post
 title: How moving to Jekyll saved me $140
-date: {}
-last_modified_at: {}
-excerpt: Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal...
+date: 2015-10-09T00:00:00.000Z
+last_modified_at: 2015-10-09T00:00:00.000Z
+excerpt: How moving to Github pages and Jekyll saved me $140 in hosting costs.
 categories: history
-tags: mickey
+tags: jekyll
 image: 
-  feature: steamboat.jpg
+  feature: jekyll.jpg
   topPosition: "-100px"
 bgContrast: dark
 bgGradientOpacity: darker
