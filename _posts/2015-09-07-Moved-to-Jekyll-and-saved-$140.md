@@ -33,6 +33,8 @@ Then i met Ghost... i immediatley loved Ghost's cleaner user interface, simple t
 
 Still to run Ghost you need a server that can run NODE, BlueHost can't.. technically it can (link) but it would take a lot of wrangling to get it working it did not meet my criteria. i Did not want to pay $20 a month just to write a blog.
 
+    jekyll --baseurl
+
 You can use Digital Ocean... pay $20 or use AWS and host for free
 
 I had played around with Jekyll and Github pages but i did not consider them as serious options.. until i tried
