@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mickey Mouse's Debut"
-date: {}
+date: 1928-11-18
 last_modified_at: {}
 excerpt: Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal...
 categories: history

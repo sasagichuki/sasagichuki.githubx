@@ -1,16 +1,18 @@
 ---
-published: true
 layout: post
-date: {}
-excerpt: Mickey first appeared in comics after he had appeared in 15 commercially successful animated shorts and was easily recognized by ...
+title:  "Mickey Mouse's Debut"
+date:   1928-11-18 01:00:00
+last_modified_at:  1928-11-18 01:00:00
+excerpt: "Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal..."
 categories: history
-tags: mickey
-image: 
-  feature: "mickey-comics.jpg"
-  topPosition: "-100px"
+tags:  mickey
+image:
+  feature: steamboat.jpg
+  topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
-syntaxHighlighter: "no"
+syntaxHighlighter: no
+published: false
 ---
 
 
