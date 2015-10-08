@@ -224,6 +224,11 @@
   padding: 0;
   width: 60%;
 
+  li {
+    margin: 0px 10px;
+    display: inline-block;
+  }
+
   li .shareButton {
     display: block;
     float: left;

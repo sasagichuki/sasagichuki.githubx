@@ -2017,6 +2017,9 @@ _::-webkit-full-page-media, _:future, :root .section-backgroundImage .post-featu
     display: table; }
   .shareWrapper:after {
     clear: both; }
+  .shareWrapper li {
+    margin: 0px 10px;
+    display: inline-block; }
   .shareWrapper li .shareButton {
     display: block;
     float: left;
