@@ -4,7 +4,7 @@ title: How moving to Jekyll saved me $140
 date: 2015-10-09T00:00:00.000Z
 last_modified_at: 2015-10-09T00:00:00.000Z
 excerpt: How moving to Github pages and Jekyll saved me $140 in hosting costs.
-categories: history
+categories: tech
 tags: jekyll
 image: 
   feature: jekyll.jpg
