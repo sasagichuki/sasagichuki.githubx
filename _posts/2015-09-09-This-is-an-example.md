@@ -8,7 +8,7 @@ categories: history
 tags:  mickey
 image:
   feature: steamboat.jpg
-  topPosition: -50px
+  topPosition: 150px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no

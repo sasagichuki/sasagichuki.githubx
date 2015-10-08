@@ -1627,7 +1627,7 @@ _::-webkit-full-page-media, _:future, :root .section-backgroundImage .post-featu
         .blockGroup-list li:nth-child(1).block .postArticle-image {
           padding-top: 50%; } }
     .blockGroup-list li:nth-child(1).block .postArticle-title {
-      font-size: 2rem; }
+      font-size: 2.4rem; }
   .blockGroup-list li:nth-child(2).block,
   .blockGroup-list li:nth-child(3).block {
     width: 50%; }
@@ -1643,7 +1643,8 @@ _::-webkit-full-page-media, _:future, :root .section-backgroundImage .post-featu
         width: 100%; } }
   .blockGroup-list li .postArticle-title {
     font-size: 0.75rem;
-    line-height: 1.5; }
+    line-height: 1.5;
+    font-size: 1.1rem; }
   .blockGroup-list .postArticle-wrapper {
     position: relative;
     background: #fff;
@@ -1659,7 +1660,8 @@ _::-webkit-full-page-media, _:future, :root .section-backgroundImage .post-featu
   .blockGroup-list .postArticle-title {
     display: block;
     margin-top: 0.75rem;
-    font-weight: 300; }
+    font-weight: 300;
+    font-size: 1.5rem; }
   .blockGroup-list .postArticle-image {
     background-size: cover;
     background-position: center;
@@ -1693,7 +1695,10 @@ _::-webkit-full-page-media, _:future, :root .section-backgroundImage .post-featu
     color: #ccc;
     font-size: 16px;
     text-transform: uppercase; }
-  .blockGroup-list .postArticle-title,
+  .blockGroup-list .postArticle-title {
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 1.5rem; }
   .blockGroup-list .block-postMeta {
     padding-left: 15px;
     padding-right: 15px; }
@@ -1743,6 +1748,9 @@ _::-webkit-full-page-media, _:future, :root .section-backgroundImage .post-featu
     display: table; }
   .socialAccountList:after {
     clear: both; }
+  .socialAccountList li {
+    margin: 0px 10px;
+    display: inline-block; }
 
 .socialAccount {
   display: block;
