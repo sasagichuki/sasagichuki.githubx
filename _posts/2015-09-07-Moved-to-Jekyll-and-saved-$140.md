@@ -18,7 +18,7 @@ published: false
 
 
 ##Bluehost
-First, Who pays $140 to host a website ? I did. I signed up for a Bluehost account in 2007, a millenia ago and diligently paid for my annual renewal every year (it seems that they dropped prices but kept charging me the same $11 per month ).
+First, Who pays $140 to host a website ? I did. I signed up for a Bluehost account in 2007, a millenia ago and diligently paid for my annual renewal every year (it seems that they dropped prices but kept charging me the same $9 per month ).
 
 Most of the stuff i had on the server was experiemts, my portfolio, and a couple of sites i did for clients.
 
