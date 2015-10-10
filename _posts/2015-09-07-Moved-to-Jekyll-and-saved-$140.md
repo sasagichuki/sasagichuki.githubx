@@ -55,7 +55,7 @@ Ghost is a very solid solution, even some big blogs have moved over to Ghost peo
 
 ##Enter the Octocat
 
-![octocat and jekyll]({{site.baseurl}}_posts/octo_cat.jpg)
+![octocat and jekyll]({{site.baseurl}}/posts/octo_cat.jpg)
 
 I had played around with Jekyll and Github pages before, at the time it seemed a little Hackish and experimental, since i already had all my code on Github I decide to give Jekyll another try.
 
