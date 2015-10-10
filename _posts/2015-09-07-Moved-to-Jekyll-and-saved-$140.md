@@ -76,7 +76,7 @@ Jekyll is not a hobby platform either, [Obama care](https://www.healthcare.gov/)
 
 ###Jekyll has a couple of advantages;
 
-1. You use markdown to write you articles, you can write markdown straight into Github, you can also use Sublime text with a Markdown extension or something like Prose.io (i use all of them ) Markdown is easy to use.
+1. You use markdown to write you articles, you can write markdown straight into Github, you can also use Sublime text with a Markdown extension or something like [Prose.io](http://prose.io/) (i use all of them ) Markdown is easy to use.
 
 2. Host for free on Github.
 
