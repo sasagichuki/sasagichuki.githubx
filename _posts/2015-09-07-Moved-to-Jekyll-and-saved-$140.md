@@ -12,7 +12,7 @@ image:
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: "no"
-published: false
+published: true
 ---
 
 
