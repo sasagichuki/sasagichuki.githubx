@@ -71,7 +71,7 @@ There are also some [easy tools](http://import.jekyllrb.com/docs/home/) to help 
 
 Jekyll is not a hobby platform either, [Obama care](https://www.healthcare.gov/) is an example of a large website built on Jekyll.
 
-![Obama_care.png]({{site.baseurl}}/_posts/Obama_care.png)
+![Obama_care.png]({{site.baseurl}}_posts/Obama_care.png)
 
 
 ###Jekyll has a couple of advantages;
