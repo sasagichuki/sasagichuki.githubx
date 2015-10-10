@@ -49,13 +49,13 @@ Termed the “Wordpress Killer” after the hype it’s Kickstarter campaign kic
 
 Still to run Ghost you need a server that can run Node.js and there not very many cheap options, BlueHost can’t.. technically it can but it would take a lot of wrangling to get it working. The fastest way to get onto Ghost is a $5/mo droplet on Digital Ocean $5 that i did not have to spend.
 
-![envato.png]({{site.baseurl}}_posts/envato.png)
+![envato.png]({{site.baseurl}}assets/images/posts/envato.png)
 
 Ghost is a very solid solution, even some big blogs have moved over to Ghost people like [Envato](http://inside.envato.com/).
 
 ##Enter the Octocat
 
-![octocat and jekyll]({{site.baseurl}}/posts/octo_cat.jpg)
+![octocat and jekyll]({{site.baseurl}}assets/images/posts/octo_cat.jpg)
 
 I had played around with Jekyll and Github pages before, at the time it seemed a little Hackish and experimental, since i already had all my code on Github I decide to give Jekyll another try.
 
@@ -71,7 +71,7 @@ There are also some [easy tools](http://import.jekyllrb.com/docs/home/) to help 
 
 Jekyll is not a hobby platform either, [Obama care](https://www.healthcare.gov/) is an example of a large website built on Jekyll.
 
-![Obama_care.png]({{site.baseurl}}_posts/Obama_care.png)
+![Obama_care.png]({{site.baseurl}}assets/images/posts/Obama_care.png)
 
 
 ###Jekyll has a couple of advantages;
