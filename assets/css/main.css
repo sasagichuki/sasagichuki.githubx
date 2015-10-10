@@ -1573,6 +1573,9 @@ _::-webkit-full-page-media, _:future, :root .section-backgroundImage .post-featu
     .postWrapper {
       overflow-y: hidden; } }
 
+.content-body p > img {
+  width: 100%; }
+
 .meta {
   margin-bottom: 3rem; }
 

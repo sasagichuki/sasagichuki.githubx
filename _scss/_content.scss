@@ -18,6 +18,12 @@
   }
 }
 
+// Make Images 100% on mobile
+.content-body{
+  p > img{
+    width: 100%;
+  }
+}
 
 .meta {
   margin-bottom: 2 * $leading;
