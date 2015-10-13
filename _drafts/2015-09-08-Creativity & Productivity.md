@@ -29,3 +29,17 @@ I was arguing with some friends on the question on of quality in Kenyan music an
 Its Kenyanese to call things Creatives… a noun for the output and the outputter… “Send the creatives” “ I am meeting with the creatives “ this ambiguity shows the casualness with which margles approach creativity…a factor of production.
 
 It is hard to explain how Creatives see their work, they are always surprised at how other people don’t take it seriously. i once had a discussion with  - Describe encounter with Sam Glchuru - 
+
+How long can you concentrate and focus on one thing before your energy and attention begin to falter? How long does it take you to engage in a particular thing to make the effort of engagement worth it?
+
+Creativity is hard work wrote All great artists and thinkers are great workers, indefatigable not only in inventing, but also in rejecting, sifting, transforming, ordering.” Nietzsche In Human, All Too Human: A Book for Free Spirits, 
+
+Weaving the golden thread according to Lehrer creativity is really putting things together in a form that makes sense
+
+" The synthesizing mind takes information from disparate sources, understands and evaluates that information objectively, and puts it together in ways that make sense to the synthesizer and also to other persons. Valuable in the past, the capacity to synthesize becomes ever more crucial as information continues to mount at dizzying rates.”
+
+Woody Allen famously declared that “Eighty percent of success is showing up”. Grit is what allows you show up again and again.
+
+We were having a discussion about the 3d industry in Kenya with a couple of agency rats and we ahd an open kimono session where you know you call a spade a spade, "Is this the best 3d work possible ?" everyone agreed that it's pretty shit and there is a lot better work down south.
+
+The point is that most 3d people dont get as much practice as art directors, their craft tends to stay "Good enough for goverment" the dont get taken through the factory where ROJ - Return on Jpeg rules so they dont get to produce good work with a gun to their heads
