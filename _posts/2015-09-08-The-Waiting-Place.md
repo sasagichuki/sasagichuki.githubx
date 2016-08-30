@@ -1,25 +1,35 @@
 ---
 layout: post
-title:  "Nina Ngoja"
-date:   1928-11-18 01:00:00
-last_modified_at:  1928-11-18 01:00:00
-excerpt: "Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal..."
-categories: history
-tags:  mickey
+title: The Waiting place
+date: 2016-02-18T01:00:00.000Z
+last_modified_at: 2016-02-18T01:00:00.000Z
+excerpt: Are you in the Waiting place ?
+categories: Life Hacking
+tags: General
 image:
-  feature: steamboat.jpg
+  feature: makeupyourmind.jpg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
-syntaxHighlighter: no
+syntaxHighlighter: 'no'
 published: false
 ---
 
 ## Dr Seuss
 
+Theodore Geisel wanted to be a serious writer, he was waiting for the day when he would arrive 
+
+ 
+
+I once had this monologue in a movie, the movie was not remarkable but the monologue grabbed me, i rewound several times so that i could write it down....  
+
 I did not know that Dr. Seuss was a failed writer, or so he thought of himself, a lot of us can identify with the Waiting Place, that limbo in between who we are and what we think we should be.
 
-I first heard it in a movie and rewond it sevral times to write it down, the movie was not remarkable [link] but the poem left a mark in my head... until yesterday when i learned that it was penned by Theodore Geisel... a failed writer.....
+Now Theodore though of himself as a mediorce writter, he had not made his mark.... on the side theodore would write childrens books under a pseudonym .. you just in case he became famous and he could use his real name... Well Theodore never really became a serious writer.... but his alternate self became the writer of the most famous children books, Dr. Seuss... Seuss being his middle name Theodore Seuss Geisel
+
+Often we are stuck in the same place... The Waiting Place...  everyone is waiting for something Pete Odera is one sharp chap, I have never forgotten this line from one of his sermons "Africa's failure is postponing excellence " frankly that is everyones failure, not sweating the details now, not putting in that extra hour, always waiting for when you will be a bit older, raise more money, have more time,
+
+it sevral times to write it down,  [link] but the poem left a mark in my head... until yesterday when i learned that it was penned by Theodore Geisel... a failed writer.....
 
 Also known as Dr Seuss!
 
@@ -66,5 +76,3 @@ Tomorrow. After my promotion. When I raise money. When the time is right. After 
 These phrases appear to be valid reasons for waiting, but they are usually just excuses used to rationalize an easier choice. Worse still, waiting is so much easier than working towards a goal that it is completely reasonable to economically justify entering the waiting place. And while it may be an easy place, it is a wholly unfulfilling place.
 
 Like Geisel, I’ve spent a lot of my life there. But as I continue The Fight, I hope never to return.
-
-
