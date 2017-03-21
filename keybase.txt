@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/chaos
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.chaos.co.ke
+  * I am chaos (https://keybase.io/chaos) on keybase.
+  * I have a public key ASCY1cjJDcaWXBwxhCzEXbKvdoaMuhOCzqEY53VkVmEK_wo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012098d5c8c90dc6965c1c31842cc45db2af76868cba1382cea118e7756456610aff0a",
+            "host": "keybase.io",
+            "kid": "012098d5c8c90dc6965c1c31842cc45db2af76868cba1382cea118e7756456610aff0a",
+            "uid": "5d5bddb577102d0a960bcf6fea905019",
+            "username": "chaos"
+        },
+        "service": {
+            "hostname": "www.chaos.co.ke",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.20"
+    },
+    "ctime": 1490089430,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1490089235,
+        "hash": "7bbc7ba688c45c89a8caa61968dd830b4e24d2d5cbf5b83f88509cddbddf10a7aa70845446c064bfa9ebc2d8c961eeb9d61af1522c59c111653c8a283e11bb60",
+        "seqno": 970321
+    },
+    "prev": "d0352315af2fbf1a13dd0c268b8fa73504dc51381589ee2bf154ba62431a6b38",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgmNXIyQ3GllwcMYQsxF2yr3aGjLoTgs6hGOd1ZFZhCv8Kp3BheWxvYWTFAvN7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOThkNWM4YzkwZGM2OTY1YzFjMzE4NDJjYzQ1ZGIyYWY3Njg2OGNiYTEzODJjZWExMThlNzc1NjQ1NjYxMGFmZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOThkNWM4YzkwZGM2OTY1YzFjMzE4NDJjYzQ1ZGIyYWY3Njg2OGNiYTEzODJjZWExMThlNzc1NjQ1NjYxMGFmZjBhIiwidWlkIjoiNWQ1YmRkYjU3NzEwMmQwYTk2MGJjZjZmZWE5MDUwMTkiLCJ1c2VybmFtZSI6ImNoYW9zIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ3d3cuY2hhb3MuY28ua2UiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjIwIn0sImN0aW1lIjoxNDkwMDg5NDMwLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0OTAwODkyMzUsImhhc2giOiI3YmJjN2JhNjg4YzQ1Yzg5YThjYWE2MTk2OGRkODMwYjRlMjRkMmQ1Y2JmNWI4M2Y4ODUwOWNkZGJkZGYxMGE3YWE3MDg0NTQ0NmMwNjRiZmE5ZWJjMmQ4Yzk2MWVlYjlkNjFhZjE1MjJjNTljMTExNjUzYzhhMjgzZTExYmI2MCIsInNlcW5vIjo5NzAzMjF9LCJwcmV2IjoiZDAzNTIzMTVhZjJmYmYxYTEzZGQwYzI2OGI4ZmE3MzUwNGRjNTEzODE1ODllZTJiZjE1NGJhNjI0MzFhNmIzOCIsInNlcW5vIjo2LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQIOrwisNSQOeEZliiDz0oNQLk+fF2s6Ovnk7tx833HFHHE520oLPro9Tzp532TjN0JYIsFrYlbr9fZ14fhrDmwyoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDi2MLlPmNMYwviBl3KAaMJeoHIHIGbaadN2eQGQF7QyaN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/chaos
+
+==================================================================
