@@ -1,5 +1,17 @@
 ---
 published: false
+layout: post
+date: 2017-02-18T01:00:00.000Z
+last_modified_at: 2017-02-18T01:00:00.000Z
+excerpt: Make up your mind
+categories: Life Hacking
+tags: General
+image:
+  feature: makeupyourmind.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: 'no'
 ---
 
 ## Make up you Mind
