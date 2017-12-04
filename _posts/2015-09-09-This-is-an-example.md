@@ -1,18 +1,20 @@
 ---
 layout: post
-title:  "Mickey Mouse's Debut"
-date:   1928-11-18 01:00:00
-last_modified_at:  1928-11-18 01:00:00
-excerpt: "Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal..."
+title: Mickey Mouse's Debut
+date: {}
+last_modified_at: {}
+excerpt: >-
+  Disney had Ub Iwerks secretly begin animating a new cartoon while still under
+  contract with Universal...
 categories: history
-tags:  mickey
+tags: mickey
 image:
   feature: steamboat.jpg
   topPosition: 150px
 bgContrast: dark
 bgGradientOpacity: darker
-syntaxHighlighter: no
-published: false
+syntaxHighlighter: 'no'
+published: true
 ---
 
 
