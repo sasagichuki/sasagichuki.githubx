@@ -19,8 +19,6 @@ published: false
 
 Theodore Geisel wanted to be a serious writer, he was waiting for the day when he would arrive 
 
- 
-
 I once had this monologue in a movie, the movie was not remarkable but the monologue grabbed me, i rewound several times so that i could write it down....  
 
 I did not know that Dr. Seuss was a failed writer, or so he thought of himself, a lot of us can identify with the Waiting Place, that limbo in between who we are and what we think we should be.
