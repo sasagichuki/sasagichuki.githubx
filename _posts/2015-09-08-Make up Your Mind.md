@@ -8,7 +8,7 @@ categories: Life Hacking
 tags: General
 image:
   feature: makeupyourmind.jpg
-  topPosition: 0px
+  topPosition: '-100px'
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: 'no'
