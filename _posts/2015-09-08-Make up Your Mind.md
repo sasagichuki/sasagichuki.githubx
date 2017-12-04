@@ -1,8 +1,8 @@
 ---
 published: true
 layout: post
-date: {}
-last_modified_at: {}
+date: 2015-10-10T00:00:00.000Z
+last_modified_at: 2015-10-10T00:00:00.000Z
 excerpt: Make up your mind
 categories: Life Hacking
 tags: General
