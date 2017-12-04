@@ -6,12 +6,12 @@ last_modified_at: 2015-10-09T00:00:00.000Z
 excerpt: How moving to Github pages and Jekyll saved me $120 in hosting costs.
 categories: tech
 tags: jekyll
-image: 
+image:
   feature: jekyll.jpg
-  topPosition: "-100px"
+  topPosition: '-100px'
 bgContrast: dark
 bgGradientOpacity: darker
-syntaxHighlighter: "no"
+syntaxHighlighter: 'no'
 published: true
 ---
 
