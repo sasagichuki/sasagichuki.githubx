@@ -1,17 +1,17 @@
 ---
-published: false
+published: true
 layout: post
-date: {}
-last_modified_at: {}
+date: 2015-10-09T00:00:00.000Z
+last_modified_at: 2015-10-09T00:00:00.000Z
 excerpt: Creativity and Productivity
 categories: theories
 tags: creativity
-image: 
+image:
   feature: work.jpg
-  topPosition: "-10px"
+  topPosition: '-10px'
 bgContrast: light
 bgGradientOpacity: darker
-syntaxHighlighter: "no"
+syntaxHighlighter: 'no'
 ---
 
 
