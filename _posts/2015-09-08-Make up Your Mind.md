@@ -1,13 +1,13 @@
 ---
 published: true
 layout: post
-date: 2017-10-09T00:00:00.000Z
-last_modified_at: 2017-10-09T00:00:00.000Z
-excerpt: Make up your mind.
+date: 2015-10-09T00:00:00.000Z
+last_modified_at: 2015-10-09T00:00:00.000Z
+excerpt: Example excerpt.
 categories: tech
 tags: jekyll
 image:
-  feature: makeupyourmind.jpg
+  feature: jekyll.jpg
   topPosition: '-100px'
 bgContrast: dark
 bgGradientOpacity: darker
