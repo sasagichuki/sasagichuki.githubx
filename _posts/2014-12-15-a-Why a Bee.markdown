@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "Why a Bee"
-date:   1928-11-18 01:00:00
-last_modified_at:  1928-11-18 01:00:00
-excerpt: "Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal..."
-categories: history
-tags:  mickey
+title: Why a Bee
+date: 2015-10-09T00:00:00.000Z
+last_modified_at: 2015-10-09T00:00:00.000Z
+excerpt: Example excerpt.
+categories: tech
+tags: jekyll
 image:
-  feature: steamboat.jpg
-  topPosition: -150px
+  feature: jekyll.jpg
+  topPosition: '-100px'
 bgContrast: dark
 bgGradientOpacity: darker
-syntaxHighlighter: no
+syntaxHighlighter: 'no'
 published: false
 ---
 
