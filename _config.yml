@@ -50,8 +50,5 @@ defaults:
     values:
       layout: "default"
       
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - vendor
+exclude: vendor
  
