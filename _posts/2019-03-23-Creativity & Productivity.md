@@ -1,15 +1,15 @@
 ---
 published: true
 layout: post
-date: 2019-03-23T20:20:20.000Z
-last_modified_at: 2019-03-23T20:20:20.000Z
-excerpt: Creativity and Productivity
-categories: theories
-tags: creativity
+date: 2015-10-09T00:00:00.000Z
+last_modified_at: 2015-10-09T00:00:00.000Z
+excerpt: Creativity and Productivity.
+categories: tech
+tags: jekyll
 image:
-  feature: work.jpg
-  topPosition: '-10px'
-bgContrast: light
+  feature: jekyll.jpg
+  topPosition: '-100px'
+bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: 'no'
 ---
