@@ -1,8 +1,8 @@
 ---
 published: true
 layout: post
-date: {}
-last_modified_at: {}
+date: 2020-03-18T11:30:00.000Z
+last_modified_at: 2020-03-18T11:30:00.000Z
 excerpt: Example excerpt.
 categories: tech
 tags: jekyll
