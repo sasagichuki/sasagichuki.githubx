@@ -1,8 +1,8 @@
 ---
 layout: post
 title: How moving to Jekyll saved me $120
-date: 2015-10-09T00:00:00.000Z
-last_modified_at: 2015-10-09T00:00:00.000Z
+date: {}
+last_modified_at: {}
 excerpt: How moving to Github pages and Jekyll saved me $120 in hosting costs.
 categories: tech
 tags: jekyll
@@ -98,5 +98,5 @@ Jekyll rocks.
 I also checked out [Harp.js](http://harpjs.com/) for 10 minutes.
 
 ##But Wait 
-What about Medium 2.0, Medium is great but you have no control over your code etc. Though you can now get custom domains and an ugly logo.
+What about Medium 2.0, Medium is great but you have no control over your code etc. Though you can now get custom domains and an ugly logo. (Update; Medium is now paid only) 
 ***
