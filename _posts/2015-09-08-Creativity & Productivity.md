@@ -1,8 +1,8 @@
 ---
 published: true
 layout: post
-date: 2015-10-09T00:00:00.000Z
-last_modified_at: 2015-10-09T00:00:00.000Z
+date: {}
+last_modified_at: {}
 excerpt: Example excerpt.
 categories: tech
 tags: jekyll
