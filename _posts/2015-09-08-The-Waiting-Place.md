@@ -1,14 +1,14 @@
 ---
 layout: post
 title: The Waiting place
-date: 2019-03-20T09:00:00.000Z
-last_modified_at: 2019-03-20T09:00:00.000Z
-excerpt: Are you in the Waiting place ?
-categories: Life Hacking
-tags: General
+date: 2015-10-09T00:00:00.000Z
+last_modified_at: 2015-10-09T00:00:00.000Z
+excerpt: Example excerpt.
+categories: tech
+tags: jekyll
 image:
-  feature: makeupyourmind.jpg
-  topPosition: 0px
+  feature: jekyll.jpg
+  topPosition: '-100px'
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: 'no'
