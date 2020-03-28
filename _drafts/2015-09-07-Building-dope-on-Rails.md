@@ -1,5 +1,17 @@
 ---
 published: false
+layout: post
+date: 2015-10-09T00:00:00.000Z
+last_modified_at: 2015-10-09T00:00:00.000Z
+excerpt: Example excerpt.
+categories: tech
+tags: jekyll
+image:
+  feature: jekyll.jpg
+  topPosition: '-100px'
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: 'no'
 ---
 
 
