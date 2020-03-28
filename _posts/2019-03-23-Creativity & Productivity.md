@@ -3,7 +3,7 @@ published: true
 layout: post
 date: 2015-10-09T00:00:00.000Z
 last_modified_at: 2015-10-09T00:00:00.000Z
-excerpt: Creativity and Productivity.
+excerpt: How moving to Github pages and Jekyll saved me $120 in hosting costs.
 categories: tech
 tags: jekyll
 image:
