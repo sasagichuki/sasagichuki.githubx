@@ -1,8 +1,8 @@
 ---
 published: true
 layout: post
-date: {}
-last_modified_at: {}
+date: 2020-04-18T10:30:00.000Z
+last_modified_at: 2020-04-18T11:30:00.000Z
 excerpt: Creativity and Productivity
 categories: tech
 tags: jekyll
