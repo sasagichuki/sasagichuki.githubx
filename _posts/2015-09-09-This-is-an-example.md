@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Mickey Mouse's Debut
-date: {}
-last_modified_at: {}
+date: 2015-10-09T00:00:00.000Z
+last_modified_at: 2015-10-09T00:00:00.000Z
 excerpt: >-
   Disney had Ub Iwerks secretly begin animating a new cartoon while still under
   contract with Universal...
