@@ -49,3 +49,9 @@ defaults:
       type: "posts"
     values:
       layout: "default"
+      
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+ 
